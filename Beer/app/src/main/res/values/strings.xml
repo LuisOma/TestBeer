@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Beer app</string>
+    <string name="img_description">Descripción</string>
+    <!-- Beers Fragment -->
+    <string name="search">Search</string>
+    <!-- Beer Detail Fragment -->
+    <string name="description">Description</string>
+    <string name="tips">Brewer tips</string>
+</resources>

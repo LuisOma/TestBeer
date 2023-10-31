@@ -1,0 +1,54 @@
+com.example.newbase.app-savedstate-1.2.0-0 C:\Users\luiso\.gradle\caches\transforms-3\02bf732bdbebe9d74f58156c0fb469e5\transformed\savedstate-1.2.0\res
+com.example.newbase.app-fragment-1.5.4-1 C:\Users\luiso\.gradle\caches\transforms-3\05deafbb0b9418660eb662236408b510\transformed\fragment-1.5.4\res
+com.example.newbase.app-annotation-experimental-1.1.0-2 C:\Users\luiso\.gradle\caches\transforms-3\0b320ce8d98b8f62328f4026a52cb019\transformed\annotation-experimental-1.1.0\res
+com.example.newbase.app-sqlite-2.2.0-3 C:\Users\luiso\.gradle\caches\transforms-3\175036e43f9e79869159746ea85fefcd\transformed\sqlite-2.2.0\res
+com.example.newbase.app-navigation-fragment-ktx-2.5.3-4 C:\Users\luiso\.gradle\caches\transforms-3\1cac44c0a16daa89e03c962f616ce7c1\transformed\navigation-fragment-ktx-2.5.3\res
+com.example.newbase.app-activity-1.5.1-5 C:\Users\luiso\.gradle\caches\transforms-3\2126cb821c03eafc9dc186d91118b1c3\transformed\activity-1.5.1\res
+com.example.newbase.app-lifecycle-viewmodel-savedstate-2.5.1-6 C:\Users\luiso\.gradle\caches\transforms-3\21880924b92f365096aa21d47212a2ba\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.newbase.app-transition-1.4.1-7 C:\Users\luiso\.gradle\caches\transforms-3\2a2356b07c7dd7c7ac123c04712f5098\transformed\transition-1.4.1\res
+com.example.newbase.app-material-1.7.0-8 C:\Users\luiso\.gradle\caches\transforms-3\3e5fca01894ef81121e3e16bddb55959\transformed\material-1.7.0\res
+com.example.newbase.app-lifecycle-livedata-ktx-2.5.1-9 C:\Users\luiso\.gradle\caches\transforms-3\3f24ddc10d7cbff00ad73c813beeb690\transformed\lifecycle-livedata-ktx-2.5.1\res
+com.example.newbase.app-navigation-ui-2.5.3-10 C:\Users\luiso\.gradle\caches\transforms-3\45435f55d21c0bf6bf8288d076cdcde4\transformed\navigation-ui-2.5.3\res
+com.example.newbase.app-coordinatorlayout-1.1.0-11 C:\Users\luiso\.gradle\caches\transforms-3\49fa406f0ebb2874bc4f4f66fea19d8a\transformed\coordinatorlayout-1.1.0\res
+com.example.newbase.app-lifecycle-livedata-core-2.5.1-12 C:\Users\luiso\.gradle\caches\transforms-3\4ae17b0ef7a3085d6272a7613aa5e118\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.newbase.app-core-1.8.0-13 C:\Users\luiso\.gradle\caches\transforms-3\541374176639188cbe84d35b3e64417b\transformed\core-1.8.0\res
+com.example.newbase.app-emoji2-views-helper-1.2.0-14 C:\Users\luiso\.gradle\caches\transforms-3\5503512cd1a7fd3e7264b8b6721d8840\transformed\emoji2-views-helper-1.2.0\res
+com.example.newbase.app-lifecycle-runtime-2.5.1-15 C:\Users\luiso\.gradle\caches\transforms-3\56736b80be301cb47fa992ecc419748d\transformed\lifecycle-runtime-2.5.1\res
+com.example.newbase.app-emoji2-1.2.0-16 C:\Users\luiso\.gradle\caches\transforms-3\569a648f8df133bc695cb5f6889c158c\transformed\emoji2-1.2.0\res
+com.example.newbase.app-lifecycle-process-2.4.1-17 C:\Users\luiso\.gradle\caches\transforms-3\586d859902853f37d316efa8d1a2eeb0\transformed\lifecycle-process-2.4.1\res
+com.example.newbase.app-navigation-ui-ktx-2.5.3-18 C:\Users\luiso\.gradle\caches\transforms-3\5a46dd4ee28959b7aee11797f44e5696\transformed\navigation-ui-ktx-2.5.3\res
+com.example.newbase.app-window-1.0.0-19 C:\Users\luiso\.gradle\caches\transforms-3\5c3522e9970575b7f3536673be429a8b\transformed\window-1.0.0\res
+com.example.newbase.app-sqlite-framework-2.2.0-20 C:\Users\luiso\.gradle\caches\transforms-3\5d882a509e13b2460a0337dfc959ef89\transformed\sqlite-framework-2.2.0\res
+com.example.newbase.app-appcompat-resources-1.5.1-21 C:\Users\luiso\.gradle\caches\transforms-3\63a402ba84566485db7fd1094e5cbdc4\transformed\appcompat-resources-1.5.1\res
+com.example.newbase.app-lifecycle-viewmodel-2.5.1-22 C:\Users\luiso\.gradle\caches\transforms-3\6c1d75915a71eb72dcf4db7d23d5aa01\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.newbase.app-navigation-runtime-2.5.3-23 C:\Users\luiso\.gradle\caches\transforms-3\6f06ff4f61c11c021f6d787d5d4e7e83\transformed\navigation-runtime-2.5.3\res
+com.example.newbase.app-room-runtime-2.4.3-24 C:\Users\luiso\.gradle\caches\transforms-3\8ae8a322087f7bee3c508fca40dfebb1\transformed\room-runtime-2.4.3\res
+com.example.newbase.app-lifecycle-viewmodel-ktx-2.5.1-25 C:\Users\luiso\.gradle\caches\transforms-3\8b8027abd4da6673fefa6b69e2c7d156\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+com.example.newbase.app-navigation-runtime-ktx-2.5.3-26 C:\Users\luiso\.gradle\caches\transforms-3\91f63a509b78f9fcec88623d2be5c201\transformed\navigation-runtime-ktx-2.5.3\res
+com.example.newbase.app-lifecycle-runtime-ktx-2.5.1-27 C:\Users\luiso\.gradle\caches\transforms-3\99457d5e9b895896c0130b68a6affc53\transformed\lifecycle-runtime-ktx-2.5.1\res
+com.example.newbase.app-savedstate-ktx-1.2.0-28 C:\Users\luiso\.gradle\caches\transforms-3\9f3c4251b3024f14d066707ec9df15ee\transformed\savedstate-ktx-1.2.0\res
+com.example.newbase.app-core-ktx-1.8.0-29 C:\Users\luiso\.gradle\caches\transforms-3\9f4be0c20d648dcfbbdbf2bdf19088ab\transformed\core-ktx-1.8.0\res
+com.example.newbase.app-slidingpanelayout-1.2.0-30 C:\Users\luiso\.gradle\caches\transforms-3\a90aa754f0e509dfc2fda892bf30a17a\transformed\slidingpanelayout-1.2.0\res
+com.example.newbase.app-constraintlayout-2.1.4-31 C:\Users\luiso\.gradle\caches\transforms-3\aa7f22d3f0e51df4c78c8c5d0dfb75d3\transformed\constraintlayout-2.1.4\res
+com.example.newbase.app-drawerlayout-1.1.1-32 C:\Users\luiso\.gradle\caches\transforms-3\b138c5a3f7f585704b91483184fd5f97\transformed\drawerlayout-1.1.1\res
+com.example.newbase.app-recyclerview-1.1.0-33 C:\Users\luiso\.gradle\caches\transforms-3\b87e44c5fe655d522219438583102899\transformed\recyclerview-1.1.0\res
+com.example.newbase.app-navigation-common-ktx-2.5.3-34 C:\Users\luiso\.gradle\caches\transforms-3\d15a7bfcc3080c88d47f1c6f1214a7e6\transformed\navigation-common-ktx-2.5.3\res
+com.example.newbase.app-navigation-fragment-2.5.3-35 C:\Users\luiso\.gradle\caches\transforms-3\d9ccd9e633f24b684fb181fe41ce8b2b\transformed\navigation-fragment-2.5.3\res
+com.example.newbase.app-appcompat-1.5.1-36 C:\Users\luiso\.gradle\caches\transforms-3\dbe99e6db2eade76903bc28cd58f7b3a\transformed\appcompat-1.5.1\res
+com.example.newbase.app-lifecycle-livedata-core-ktx-2.5.1-37 C:\Users\luiso\.gradle\caches\transforms-3\e0f342b679c5f5b14ccb2d51161afec5\transformed\lifecycle-livedata-core-ktx-2.5.1\res
+com.example.newbase.app-cardview-1.0.0-38 C:\Users\luiso\.gradle\caches\transforms-3\e8ec95c649b441a791237a074f8a0d15\transformed\cardview-1.0.0\res
+com.example.newbase.app-glide-4.11.0-39 C:\Users\luiso\.gradle\caches\transforms-3\ea713a840db79f870378864c026f6d39\transformed\glide-4.11.0\res
+com.example.newbase.app-activity-ktx-1.5.1-40 C:\Users\luiso\.gradle\caches\transforms-3\ed390e0fb556bc73d720802b8218a52a\transformed\activity-ktx-1.5.1\res
+com.example.newbase.app-navigation-common-2.5.3-41 C:\Users\luiso\.gradle\caches\transforms-3\eff4844f6a539417818ac3eab08ad604\transformed\navigation-common-2.5.3\res
+com.example.newbase.app-fragment-ktx-1.5.4-42 C:\Users\luiso\.gradle\caches\transforms-3\f112adab9e4bfc3cba13a5cf4002062e\transformed\fragment-ktx-1.5.4\res
+com.example.newbase.app-viewpager2-1.0.0-43 C:\Users\luiso\.gradle\caches\transforms-3\f52120b83b2a24aa9c776e5dfa963d82\transformed\viewpager2-1.0.0\res
+com.example.newbase.app-startup-runtime-1.1.1-44 C:\Users\luiso\.gradle\caches\transforms-3\f7a7d710c80a4776d0bfe24ed95dd649\transformed\startup-runtime-1.1.1\res
+com.example.newbase.app-lifecycle-livedata-2.5.1-45 C:\Users\luiso\.gradle\caches\transforms-3\fd4e14ebce637e8a1638429b58e08630\transformed\lifecycle-livedata-2.5.1\res
+com.example.newbase.app-pngs-46 C:\Users\luiso\Downloads\NewBase 2\NewBase 2\app\build\generated\res\pngs\debug
+com.example.newbase.app-resValues-47 C:\Users\luiso\Downloads\NewBase 2\NewBase 2\app\build\generated\res\resValues\debug
+com.example.newbase.app-rs-48 C:\Users\luiso\Downloads\NewBase 2\NewBase 2\app\build\generated\res\rs\debug
+com.example.newbase.app-packageDebugResources-49 C:\Users\luiso\Downloads\NewBase 2\NewBase 2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.newbase.app-packageDebugResources-50 C:\Users\luiso\Downloads\NewBase 2\NewBase 2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.newbase.app-merged_res-51 C:\Users\luiso\Downloads\NewBase 2\NewBase 2\app\build\intermediates\merged_res\debug
+com.example.newbase.app-debug-52 C:\Users\luiso\Downloads\NewBase 2\NewBase 2\app\src\debug\res
+com.example.newbase.app-main-53 C:\Users\luiso\Downloads\NewBase 2\NewBase 2\app\src\main\res

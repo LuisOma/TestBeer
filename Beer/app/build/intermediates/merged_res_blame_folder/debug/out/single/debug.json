@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.newbase.app-main-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/drawable_ic_top.xml.flat",
+        "source": "com.example.newbase.app-main-53:/drawable/ic_top.xml"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.newbase.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.newbase.app-main-53:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.newbase.app-main-53:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.newbase.app-main-53:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.newbase.app-main-53:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.newbase.app-main-53:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.newbase.app-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/layout_fragment_beers.xml.flat",
+        "source": "com.example.newbase.app-main-53:/layout/fragment_beers.xml"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.newbase.app-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.newbase.app-main-53:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.newbase.app-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.newbase.app-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.newbase.app-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.newbase.app-main-53:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/drawable_header_background.xml.flat",
+        "source": "com.example.newbase.app-main-53:/drawable/header_background.xml"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/drawable_item_background.xml.flat",
+        "source": "com.example.newbase.app-main-53:/drawable/item_background.xml"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/layout_activity_login.xml.flat",
+        "source": "com.example.newbase.app-main-53:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/layout_activity_splash.xml.flat",
+        "source": "com.example.newbase.app-main-53:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/layout_beer_item.xml.flat",
+        "source": "com.example.newbase.app-main-53:/layout/beer_item.xml"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/layout_fragment_beer_detail.xml.flat",
+        "source": "com.example.newbase.app-main-53:/layout/fragment_beer_detail.xml"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/layout_network_state_item.xml.flat",
+        "source": "com.example.newbase.app-main-53:/layout/network_state_item.xml"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.newbase.app-main-53:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/layout_activity_main.xml.flat",
+        "source": "com.example.newbase.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/navigation_main_nav.xml.flat",
+        "source": "com.example.newbase.app-main-53:/navigation/main_nav.xml"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.newbase.app-main-53:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.newbase.app-main-53:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/drawable_beer.png.flat",
+        "source": "com.example.newbase.app-main-53:/drawable/beer.png"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.newbase.app-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.newbase.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.newbase.app-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]
